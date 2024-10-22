@@ -24,10 +24,6 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 <br/>
 
-<a href="https://github.com/Ceoxinia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ceoxinia&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceoxinia&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
